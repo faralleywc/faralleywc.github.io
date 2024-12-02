@@ -1,2 +1,1 @@
-# faralleywc.github.io
-For Website usage only
+HomePage: https://wsnow99.github.io/
